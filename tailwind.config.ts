@@ -1,3 +1,4 @@
+/** @type {import('tailwindcss').Config} */
 const config: import('tailwindcss').Config = {
   content: [
     "./index.html",
