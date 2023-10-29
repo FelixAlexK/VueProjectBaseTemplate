@@ -5,6 +5,9 @@ const config: import('tailwindcss').Config = {
     "./src/**/*.{vue,js,ts,jsx,tsx}",
   ],
   theme: {
+    fontFamily: {
+      roboto: ['Roboto', 'sans-serif'],
+    },
     extend: {},
   },
   plugins: [],
